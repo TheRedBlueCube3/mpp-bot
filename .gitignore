@@ -1,4 +1,4 @@
 cmd
 .vscode
 cmd.ts
-bconfig.json
+config.json

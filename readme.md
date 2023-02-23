@@ -24,10 +24,10 @@ The contents for the **_.json_** file look like this:
 
 ```json
 {
-	"token": "your token goes here",
+	"token": "aaaaaaaaaaaaaaaaaaaaaaaa.ffffffff-ffff-ffff-ffff-ffffffffffff",
 	"name": "JSPlayground",
 	"color": "#adadad",
-	"channel": "your room goes here",
+	"channel": "js room",
 	"uri": "wss://mppclone.com:8443"
 }
 ```
